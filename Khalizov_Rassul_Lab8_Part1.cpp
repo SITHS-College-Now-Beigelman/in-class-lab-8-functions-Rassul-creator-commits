@@ -1,3 +1,7 @@
+// Khalizov Rassul
+// Lab 8
+// November 12, 2024
+
 #include <iostream>   // enables inputs and outputs operations
 #include <cmath>      // enables sqt, power, and fllor
 
