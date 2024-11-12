@@ -1,3 +1,6 @@
+// Khalizov Rassul
+// Lab 8
+// November 12, 2024
 #include <iostream> 
 using namespace std;
 int doubleMultiply(int a, int b)
