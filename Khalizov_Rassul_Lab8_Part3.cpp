@@ -1,3 +1,7 @@
+// Khalizov Rassul
+// Lab 8
+// November 12, 2024
+
 #include <iostream>
 
 double getSum(double num1, double num2, double num3) {
