@@ -1,4 +1,4 @@
-include <iostream>   // enables inputs and outputs operations
+#include <iostream>   // enables inputs and outputs operations
 #include <cmath>      // enables sqt, power, and fllor
 
 using namespace std; 
@@ -11,9 +11,9 @@ int main() {
     cin >> num;
     
     // calculates what the square root, fourt power, and floor of the number is and outputs it
-    cout << "Square root: " << sqrt(num) << std::endl;
-    cout << "Fourth power: " << pow(num, 4) << std::endl;
-    cout << "Floor: " << floor(num) << std::endl;
+    cout << "Square root: " << sqrt(num) << endl;
+    cout << "Fourth power: " << pow(num, 4) << endl;
+    cout << "Floor: " << floor(num) << endl;
     
     return 0;
     /*
